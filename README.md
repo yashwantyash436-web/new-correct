@@ -28,10 +28,6 @@ FootballVista AI is a Streamlit-based Football Analytics Dashboard built using h
 
 ## Run Locally
 
-```bash
 pip install -r requirements.txt
+
 streamlit run app.py
-streamlit==1.46.0
-pandas==2.3.0
-numpy==2.3.0
-plotly==6.1.2
